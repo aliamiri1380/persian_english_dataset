@@ -1,4 +1,4 @@
-# persian_english_dataset
+# Persian English dataset
 A Persian to English dataset collected for NLP machine translation 
 the file format is like this:<br/>
 EnglishSentence1:PersianSentence1<br/>
